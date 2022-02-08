@@ -1,9 +1,9 @@
 # Data Analysis 
 
-## introduction.
+## Introduction.
 This is my first Data analysis Repository. I have learned many things from these projects. My aim was to be good at **EDA**. 
 
-#### These things I have learned so far
+## These things I have learned so far
 - [x] Pandas
 - [x] Numpy 
 - [x] Matplotlib
